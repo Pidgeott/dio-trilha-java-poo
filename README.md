@@ -2,7 +2,7 @@
 
 Repositório destinado a aplicação dos principais conceitos apredidos na aula de Java Básico no Bootcamp Santander 2024.
 
-### Diagrama UML | Case Iphone {.smaller}
+### <span style="font-size: smaller;">Diagrama UML | Case Iphone</span>
 
 ```mermaid
 classDiagram
