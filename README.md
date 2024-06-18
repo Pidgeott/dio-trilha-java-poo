@@ -6,9 +6,9 @@ Repositório destinado a aplicação dos principais conceitos apredidos na aula 
 
 ```mermaid
 classDiagram
-    iPhone ..|> ReprodutorMusical
-    iPhone ..|> AparelhoTelefonico
-    iPhone ..|> NavegadorNaInternet
+    iPhone --|> ReprodutorMusical
+    iPhone --|> AparelhoTelefonico
+    iPhone --|> NavegadorNaInternet
 
     class iPhone {
       + tocar()
